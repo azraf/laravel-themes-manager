@@ -1,0 +1,3 @@
+Main package: 
+hexadog/laravel-themes-manager
+https://github.com/hexadog/laravel-themes-manager 
