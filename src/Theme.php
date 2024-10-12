@@ -2,15 +2,15 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager;
+namespace Azraf\ThemesManager;
 
-use Hexadog\ThemesManager\Events\ThemeDisabled;
-use Hexadog\ThemesManager\Events\ThemeDisabling;
-use Hexadog\ThemesManager\Events\ThemeEnabled;
-use Hexadog\ThemesManager\Events\ThemeEnabling;
-use Hexadog\ThemesManager\Facades\ThemesManager;
-use Hexadog\ThemesManager\Traits\HasTranslations;
-use Hexadog\ThemesManager\Traits\HasViews;
+use Azraf\ThemesManager\Events\ThemeDisabled;
+use Azraf\ThemesManager\Events\ThemeDisabling;
+use Azraf\ThemesManager\Events\ThemeEnabled;
+use Azraf\ThemesManager\Events\ThemeEnabling;
+use Azraf\ThemesManager\Facades\ThemesManager;
+use Azraf\ThemesManager\Traits\HasTranslations;
+use Azraf\ThemesManager\Traits\HasViews;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\File;

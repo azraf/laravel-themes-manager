@@ -2,6 +2,6 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager\Exceptions;
+namespace Azraf\ThemesManager\Exceptions;
 
 class InvalidJsonException extends \Exception {}

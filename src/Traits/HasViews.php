@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager\Traits;
+namespace Azraf\ThemesManager\Traits;
 
 use Illuminate\Mail\Markdown;
 use Illuminate\Support\Arr;

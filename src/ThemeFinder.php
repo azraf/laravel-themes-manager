@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager;
+namespace Azraf\ThemesManager;
 
-use Hexadog\ThemesManager\Helpers\Json;
+use Azraf\ThemesManager\Helpers\Json;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Config;
 use Symfony\Component\Finder\Finder;

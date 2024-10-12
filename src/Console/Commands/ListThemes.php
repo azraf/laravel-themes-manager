@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager\Console\Commands;
+namespace Azraf\ThemesManager\Console\Commands;
 
-use Hexadog\ThemesManager\Facades\ThemesManager;
+use Azraf\ThemesManager\Facades\ThemesManager;
 use Illuminate\Console\Command;
 
 class ListThemes extends Command

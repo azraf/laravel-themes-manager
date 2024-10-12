@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager\Components;
+namespace Azraf\ThemesManager\Components;
 
-use Hexadog\ThemesManager\Facades\ThemesManager;
+use Azraf\ThemesManager\Facades\ThemesManager;
 use Illuminate\View\Component;
 
 class Script extends Component

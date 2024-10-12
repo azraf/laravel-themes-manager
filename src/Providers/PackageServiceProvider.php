@@ -2,17 +2,17 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager\Providers;
+namespace Azraf\ThemesManager\Providers;
 
-use Hexadog\ThemesManager\Components\Image;
-use Hexadog\ThemesManager\Components\PageTitle;
-use Hexadog\ThemesManager\Components\Script;
-use Hexadog\ThemesManager\Components\Style;
-use Hexadog\ThemesManager\Console\Commands;
-use Hexadog\ThemesManager\Console\Generators;
-use Hexadog\ThemesManager\Facades\ThemesManager as ThemesManagerFacade;
-use Hexadog\ThemesManager\Http\Middleware;
-use Hexadog\ThemesManager\ThemesManager;
+use Azraf\ThemesManager\Components\Image;
+use Azraf\ThemesManager\Components\PageTitle;
+use Azraf\ThemesManager\Components\Script;
+use Azraf\ThemesManager\Components\Style;
+use Azraf\ThemesManager\Console\Commands;
+use Azraf\ThemesManager\Console\Generators;
+use Azraf\ThemesManager\Facades\ThemesManager as ThemesManagerFacade;
+use Azraf\ThemesManager\Http\Middleware;
+use Azraf\ThemesManager\ThemesManager;
 use Illuminate\Foundation\AliasLoader;
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;

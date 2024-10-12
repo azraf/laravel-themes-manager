@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager\Traits;
+namespace Azraf\ThemesManager\Traits;
 
-use Hexadog\ThemesManager\ThemeFinder;
+use Azraf\ThemesManager\ThemeFinder;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Config;

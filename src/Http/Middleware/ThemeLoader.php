@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager\Http\Middleware;
+namespace Azraf\ThemesManager\Http\Middleware;
 
-use Hexadog\ThemesManager\Facades\ThemesManager;
+use Azraf\ThemesManager\Facades\ThemesManager;
 use Illuminate\Http\Request;
 
 class ThemeLoader

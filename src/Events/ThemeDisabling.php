@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager\Events;
+namespace Azraf\ThemesManager\Events;
 
-use Hexadog\ThemesManager\Theme;
+use Azraf\ThemesManager\Theme;
 
 class ThemeDisabling
 {

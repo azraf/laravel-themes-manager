@@ -14,13 +14,13 @@
 
 <!-- omit in toc -->
 ## Introduction
-<code>hexadog/laravel-themes-manager</code> is a Laravel package which was created to let you developing multi-themes Laravel application.
+<code>azraf/laravel-themes-manager</code> is for testing hexadog/laravel-themes-manager package in my own project with some core modification. This testing may end OK. Its highly recommended you use the main package hexadog/laravel-themes-manager. This package will be under lots of testing, so highly possibility of end with lots of errors. So, if you want, use with your own risk.
 
-<!-- omit in toc -->
-## Installation
-This package requires PHP 7.4 and Laravel 7.0 or higher.
+```shell
+composer require hexadog/laravel-themes-manager
+```
+Modified/testing package
 
-To get started, install Themes Manager using Composer:
 ```shell
 composer require azraf/laravel-themes-manager
 ```

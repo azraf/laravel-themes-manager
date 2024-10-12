@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager\Console\Generators;
+namespace Azraf\ThemesManager\Console\Generators;
 
-use Hexadog\ThemesManager\Console\Commands\Traits\BlockMessage;
-use Hexadog\ThemesManager\Console\Commands\Traits\SectionMessage;
-use Hexadog\ThemesManager\Facades\ThemesManager;
+use Azraf\ThemesManager\Console\Commands\Traits\BlockMessage;
+use Azraf\ThemesManager\Console\Commands\Traits\SectionMessage;
+use Azraf\ThemesManager\Facades\ThemesManager;
 use Illuminate\Config\Repository;
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;

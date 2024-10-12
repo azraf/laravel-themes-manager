@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Hexadog\ThemesManager;
+namespace Azraf\ThemesManager;
 
-use Hexadog\ThemesManager\Exceptions\ThemeNotFoundException;
-use Hexadog\ThemesManager\Traits\HasCache;
+use Azraf\ThemesManager\Exceptions\ThemeNotFoundException;
+use Azraf\ThemesManager\Traits\HasCache;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Str;
